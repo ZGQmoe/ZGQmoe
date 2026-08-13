@@ -61,12 +61,7 @@ end process;
 | [`EEEN-11102-Notes`](https://github.com/ZGQmoe/EEEN-11102-Notes) | Electronics course notes shared for other students to reuse |
 | [`EEEN11202Lab`](https://github.com/ZGQmoe/EEEN11202Lab) | Small engineering lab work and experiments |
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ZGQmoe&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="ZGQmoe's GitHub stats">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZGQmoe&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages">
-
-</div>
+<!-- Dynamic stats intentionally omitted: reliable signal beats a flashy broken widget. -->
 
 <details>
 <summary><code>05 // transmission</code></summary>
