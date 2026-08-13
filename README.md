@@ -1,46 +1,81 @@
 <div align="center">
 
-# `SYSTEM // ZGQmoe`
+# ZGQmoe
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=7AA2F7&center=true&vCenter=true&width=720&lines=Electrical+%26+Electronic+Engineering+student;Digital+Design+%E2%86%92+Computer+Architecture+%E2%86%92+CPU+%2F+SoC;Building+things+one+waveform+at+a+time...)](https://git.io/typing-svg)
+**Electrical & Electronic Engineering @ The University of Manchester**
 
-`RTL` · `Computer Architecture` · `Verification` · `Open Notes`
+`Digital Design` · `Computer Architecture` · `RTL` · `Verification`
+
+*From logic gates to processors — building systems that are testable, explainable, and documented.*
 
 </div>
 
-## `01 // operator`
+---
 
-```text
-handle   : TOMOchan / ZGQmoe
-base     : Electrical & Electronic Engineering @ UoM
-mission  : turn digital logic into systems that actually work
-status   : learning in public · documenting the useful bits
-```
+## About
 
-I am an EEE student exploring the path from **logic gates to processors**.  
-Right now I am building stronger foundations in digital design, computer architecture, RTL and verification — while turning course notes into resources other people can reuse.
+I am an EEE student working toward **digital hardware and computer architecture**, with a long-term interest in CPU/SoC design.
 
-> 小目标：把“我好像懂了”变成可以综合、可以仿真、可以解释的东西。  
-> **Waveforms don't lie.** `(:3 っ)∋`
+My current focus is turning theory into engineering evidence: synthesizable RTL, purposeful testbenches, readable waveforms, and documentation that makes a project reproducible.
 
-## `02 // current routing`
+> **Current checkpoint:** complete one end-to-end hardware project with architecture, RTL, verification, results, and a proper bug log.
 
-- **Digital design** — combinational/sequential logic, FSMs, timing and synthesizable RTL
-- **Computer architecture** — datapaths, control, memory hierarchy and the road toward CPU/SoC design
-- **Verification** — testbenches, edge cases, assertions and debugging from evidence
-- **Knowledge systems** — clear, revisable notes instead of one-off exam cramming
+## Selected work
 
-**Next major checkpoint:** ship one complete hardware project with architecture, RTL, testbench, results, documentation, and a proper bug log.
+| Repository | Focus |
+| :-- | :-- |
+| [`MATHS-19622-Notes`](https://github.com/ZGQmoe/MATHS-19622-Notes) | Multivariable calculus notes, revised whenever a clearer interpretation appears |
+| [`EEEN-11102-Notes`](https://github.com/ZGQmoe/EEEN-11102-Notes) | Electronics course notes shared for other students to reuse |
+| [`EEEN11202Lab`](https://github.com/ZGQmoe/EEEN11202Lab) | Engineering lab work and small experiments |
 
-## `03 // toolchain`
+## Toolbox
 
 <p>
-  <img src="https://img.shields.io/badge/VHDL-6C63FF?style=for-the-badge&logoColor=white" alt="VHDL">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111827" alt="Linux">
+  <img src="https://img.shields.io/badge/VHDL-6C63FF?style=flat-square&logoColor=white" alt="VHDL">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827" alt="Linux">
 </p>
+
+---
+
+<details>
+<summary><strong>⚡ MOE MODE // click to expand 二次元模式</strong></summary>
+
+<br>
+
+<div align="center">
+
+## `SYSTEM // ZGQmoe`
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=900&color=7AA2F7&center=true&vCenter=true&width=720&lines=ZGQ+%3D+%E8%B5%B5%E5%AE%98%E9%BD%90;moe+%3D+the+anime+subsystem;Avatar+%3D+%E7%8E%96%E6%B8%9A%E5%8F%8B+%2F+the+blue+savant;Waveforms+don%27t+lie...)](https://git.io/typing-svg)
+
+`[ MOE SUBSYSTEM ONLINE ]` · `(:3 っ)∋`
+
+</div>
+
+### `01 // handle decode`
+
+| Signal | Meaning |
+| :-- | :-- |
+| `ZGQ` | **赵官齐** — the real-world identity |
+| `moe` | The deliberately visible anime/otaku layer |
+| `ZGQmoe` | Engineer identity and personal culture compiled into one handle |
+| Avatar | **玖渚友** — the “blue savant”; an engineering-and-computing genius who fits the EEE × CS intersection |
+
+The point is not to paste anime over an engineering profile. The point is to make the anime identity part of the **naming system, colour language, and technical metaphor**.
+
+### `02 // character alignment`
+
+```text
+character archetype : blue-haired engineering genius
+real-world route    : EEE → digital design → computer architecture
+shared interface    : hardware + software + obsessive curiosity
+theme colour        : savant blue / tokyo-night indigo
+```
+
+### `03 // synthesis ritual`
 
 ```vhdl
 process(clk)
@@ -53,34 +88,12 @@ begin
 end process;
 ```
 
-## `04 // public nodes`
-
-| Repository | What lives there |
-| :-- | :-- |
-| [`MATHS-19622-Notes`](https://github.com/ZGQmoe/MATHS-19622-Notes) | Multivariable calculus notes that evolve when a clearer interpretation appears |
-| [`EEEN-11102-Notes`](https://github.com/ZGQmoe/EEEN-11102-Notes) | Electronics course notes shared for other students to reuse |
-| [`EEEN11202Lab`](https://github.com/ZGQmoe/EEEN11202Lab) | Small engineering lab work and experiments |
-
-<!-- Dynamic stats intentionally omitted: reliable signal beats a flashy broken widget. -->
-
-<details>
-<summary><code>05 // transmission</code></summary>
-
-<br>
-
-I like precise questions, annotated waveforms, and notes that survive the exam they were written for.
-
-If you are learning digital hardware too, feel free to explore the public notes, open an issue when something looks wrong, or say hi through GitHub.
-
 ```text
-[ OK ] curiosity online
+[ OK ] identity preserved
 [ OK ] documentation enabled
+[ OK ] moe subsystem isolated from recruiter mode
 [ .. ] CPU project compiling
 ```
-
-</details>
-
----
 
 <div align="center">
 
@@ -88,3 +101,7 @@ If you are learning digital hardware too, feel free to explore the public notes,
 **Understand the spec → implement it → prove it with waveforms.**
 
 </div>
+
+</details>
+
+<!-- Dynamic stats intentionally omitted: reliable signal beats a flashy broken widget. -->
