@@ -1,48 +1,63 @@
 <div align="center">
 
-# ZGQmoe
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-light.svg">
+  <img alt="ZGQmoe // EEE28'@UoM" src="./assets/profile-light.svg" width="100%">
+</picture>
 
-### EEE @ UoM · Class of 2028
+<br>
 
-`Electrical & Electronic Engineering`
+<sub>赵官齐 · Electrical &amp; Electronic Engineering · University of Manchester</sub>
 
-*Learning, building, and keeping good notes along the way.*
+<p>
+  <a href="#about">[ about ]</a>
+  ·
+  <a href="#notes">[ notes ]</a>
+  ·
+  <a href="#toolbox">[ toolbox ]</a>
+  ·
+  <a href="#status">[ status ]</a>
+</p>
 
 </div>
 
 ---
 
-## Hello
+## /about
 
-I'm an Electrical & Electronic Engineering undergraduate at the University of Manchester.
+**方向还在探索，笔记先认真维护。**
 
-I'm still exploring where I want to go within engineering and computing, so this profile is a record of what I'm learning — not a finished label for what I have to become.
+I'm an EEE undergraduate at the University of Manchester, learning my way through engineering and computing.
 
-## Long-running project — course notes
+Currently curious about digital systems, computer architecture, verification, embedded systems, and the boundary between hardware and software. This is a list of current interests — not a permanent label for what I have to become.
 
-I maintain a growing collection of course notes as a long-term learning system.
+## /notes
 
-The goal is to make them:
+I maintain a growing collection of course notes as a long-running project.
+
+The aim is to keep them:
 
 - **revisable** — updated when I find a clearer explanation or a contradiction;
 - **connected** — able to link ideas across modules instead of isolating each lecture;
 - **reusable** — useful after the exam, both to future me and to other students.
 
-## Toolbox
+## /toolbox
 
-<p>
-  <img src="https://img.shields.io/badge/VHDL-6C63FF?style=flat-square&logoColor=white" alt="VHDL">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827" alt="Linux">
-</p>
+`VHDL` · `C` · `LaTeX` · `Git` · `Linux`
 
----
+Still adding tools as the work asks for them.
+
+## /status
+
+**Open to open-source contributions, student projects, and project teams.**
+
+I'm happy to begin with documentation, tests, tooling, or small implementation tasks — and grow into larger engineering work by doing it properly.
 
 <div align="center">
 
-`ZGQ = 赵官齐` · `moe = the anime subsystem`  
-`(:3 っ)∋`
+---
+
+<sub><code>ZGQ = 赵官齐</code> · a personal corner of the internet · permanently under construction</sub>
 
 </div>
