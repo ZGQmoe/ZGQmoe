@@ -37,11 +37,11 @@
 
   <rect x="52" y="194" width="155" height="28" rx="7" fill="#eff0ff" stroke="#cbc8ff"/>
   <circle cx="68" cy="208" r="4" fill="#59c98b"/>
-  <text x="80" y="213" fill="#495171" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">notes: maintained</text>
+  <text x="80" y="213" fill="#495171" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">notes</text>
 
   <rect x="219" y="194" width="157" height="28" rx="7" fill="#eefbfc" stroke="#b9e7eb"/>
   <circle cx="235" cy="208" r="4" fill="#28b8c7"/>
-  <text x="247" y="213" fill="#495171" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">direction: exploring</text>
+  <text x="247" y="213" fill="#495171" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">toolbox</text>
 
   <rect x="388" y="194" width="129" height="28" rx="7" fill="#fff2f7" stroke="#f4c7d8"/>
   <circle cx="404" cy="208" r="4" fill="#ff7188"/>
