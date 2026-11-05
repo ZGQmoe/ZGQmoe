@@ -1,10 +1,8 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-light.svg">
-  <img alt="Guanqi｜TOMOchan — EEE28'@UoM" src="./assets/profile-light.svg" width="100%">
-</picture>
+## Guanqi｜TOMOchan
 
-<br>
+EEE28'@UoM
+
+<img src="./assets/sharks.gif" alt="Ice-blue ASCII sharks swimming among small fish" width="100%">
 
 **On my desk**
 
