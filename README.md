@@ -6,13 +6,13 @@
 
 <br><br>
 
-### <samp>Guanqi｜TOMOchan</samp>
+# Guanqi｜TOMOchan
 
-<samp>EEE28'@UoM</samp>
+EEE28'@UoM
 
 <br><br>
 
-**<samp>On my desk</samp>**
+**On my desk**
 
 🎮 **[Mai Pattern Lab](https://github.com/ZGQmoe/maimai-pattern-lab-public)**  
 📓 **[Course notes](https://github.com/ZGQmoe?tab=repositories&q=Notes)**
